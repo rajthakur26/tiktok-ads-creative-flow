@@ -105,8 +105,6 @@ Proper handling of constraints
 
 Focus on correctness and UX over completeness
 
-✨ Optional Final Line (Highly Recommended)
 
-Add this line at the end of README:
 
 This project focuses on demonstrating frontend reasoning, validation, and error handling under real-world constraints rather than full production integration.
